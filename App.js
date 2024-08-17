@@ -27,8 +27,7 @@ export default function App() {
           headerStyle: { backgroundColor: "#3c0a6b" },
           headerTintColor: "white",
           drawerActiveBackgroundColor: "#f0e1ff",
-          drawerActiveTintColor: "#3c0a6b",
-          // drawerStyle: { backgroundColor: "#ccc" },
+          tabBarActiveTintColor: "#3c0a6b",
         }}>
         <BottomTab.Screen
           name="Welcome"
